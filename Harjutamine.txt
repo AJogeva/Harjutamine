@@ -1,1 +1,4 @@
 GitHub n koostöö arendusplatvorm, mida nimetatakse ka sepistamiseks. See tähendab, et platvorm keskendub arendajate vahelisele koostööle oma tarkvara levitamiseks ja toetamiseks (ehkki seda on tasapisi kasutatud ka muude tarkvaraväliste projektide jaoks=
+
+
+Edaspidi saan GitHubi kasutada näiteks enda programeeritud koodide ülesse laadimiseks. Või tööde esitamiseks.
